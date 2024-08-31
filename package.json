@@ -1,0 +1,21 @@
+{
+  "name": "suitescript-demos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf cp npx tsc && ",
+    "delete-ts-output": "rm -rf ts-output",
+    "copy-to-ts-output": "cp ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.25.6",
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "@hitc/netsuite-types": "^2024.2.0",
+    "typescript": "^5.5.4"
+  }
+}

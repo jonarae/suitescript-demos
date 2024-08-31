@@ -1,0 +1,15 @@
+{
+  "name": "sync-messages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run delete-ts-output && npm run copy-to-ts-output && npm run delete-ts-files && npx tsc",
+    "delete-ts-output": "rm -rf ts-output",
+    "copy-to-ts-output": "cp -r src ts-output",
+    "delete-ts-files": "rm -rf ts-output/FileCabinet",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
