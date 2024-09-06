@@ -1,5 +1,5 @@
 {
-  "name": "suitescript-demos",
+  "name": "mass-delete-records",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -13,12 +13,5 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "@babel/cli": "^7.25.6",
-    "@babel/core": "^7.25.2",
-    "@babel/preset-env": "^7.25.4",
-    "@hitc/netsuite-types": "^2024.2.0",
-    "typescript": "^5.5.4"
-  }
+  "description": ""
 }
