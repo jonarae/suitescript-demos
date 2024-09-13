@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_asp_get_giphy_encryptdky_sl">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>ASP Get Giphy via Encrypted Key SL</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/api-secrets/getGiphyViaEncryptedKeySL.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_asp_get_giphy_encryptdky_sl">
+      <allemployees>F</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>DEBUG</loglevel>
+      <runasrole></runasrole>
+      <status>RELEASED</status>
+      <title>ASP Get Giphy via Encrypted Key SL</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>
