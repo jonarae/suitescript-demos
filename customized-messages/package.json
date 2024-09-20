@@ -1,0 +1,17 @@
+{
+  "name": "customized-messages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build-and-deploy": "npm run build && npm run deploy",
+    "build": "npm run delete-ts-output && npm run copy-to-ts-output && npm run delete-ts-files && npx tsc",
+    "deploy": "cd ts-output && suitecloud project:deploy && cd ..",
+    "delete-ts-output": "rm -rf ts-output",
+    "copy-to-ts-output": "cp -r src ts-output",
+    "delete-ts-files": "rm -rf ts-output/FileCabinet",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
