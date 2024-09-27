@@ -8,9 +8,6 @@ This project aims to learn concepts discussed in the ff. articles by actually do
 [From Clutter to Clarity: How to Mass Delete Records in NetSuite](https://www.atsourcepro.com/post/from-clutter-to-clarity-how-to-mass-delete-records-in-netsuite)
 - [mass-delete-records](https://github.com/jonarae/suitescript-demos/tree/main/mass-delete-records)
 
-[From Clutter to Clarity: How to Mass Delete Records in NetSuite](https://www.atsourcepro.com/post/from-clutter-to-clarity-how-to-mass-delete-records-in-netsuite)
-- [mass-delete-records](https://github.com/jonarae/suitescript-demos/tree/main/mass-delete-records)
-
 [Learn How to Implement NetSuite Dialogs and Messages](https://www.atsourcepro.com/post/learn-how-to-implement-netsuite-dialogs-and-messages)
 - [customized-messages](https://github.com/jonarae/suitescript-demos/tree/main/customized-messages)
 
