@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff xmlns:ns="netsuite" xmlns:ns3="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+    <file original="netsuite-database" source-language="en-US" datatype="database" target-language="ja-JP">
+        <body>
+            <group ns:collection="custcollection_asp_book_record_type">
+                <trans-unit id="BOOK_RECORD_NAME">
+                    <source>Book</source>
+                    <target>本</target>
+                    <note from="string description">Book record name</note>
+                </trans-unit>
+                <trans-unit id="LANGUAGE_LABEL">
+                    <source>Language</source>
+                    <target>言語</target>
+                    <note from="string description">Language field label</note>
+                </trans-unit>
+                <trans-unit id="LANGUAGE_HELP">
+                    <source>Learn about NetSuite translations</source>
+                    <target>NetSuite翻訳について学ぶ</target>
+                    <note from="string description">Language field help text</note>
+                </trans-unit>
+            </group>
+        </body>
+    </file>
+</xliff>

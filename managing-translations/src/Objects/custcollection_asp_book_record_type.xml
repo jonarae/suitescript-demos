@@ -1,0 +1,18 @@
+<translationcollection scriptid="custcollection_asp_book_record_type">
+  <defaultlanguage>en-US</defaultlanguage>
+  <name>Book</name>
+  <strings>
+    <string scriptid="language_help">
+      <defaulttranslation>Learn about NetSuite translations</defaulttranslation>
+      <description>Language field help text</description>
+    </string>
+    <string scriptid="book_record_name">
+      <defaulttranslation>Book</defaulttranslation>
+      <description>Book record name</description>
+    </string>
+    <string scriptid="language_label">
+      <defaulttranslation>Language</defaulttranslation>
+      <description>Language field label</description>
+    </string>
+  </strings>
+</translationcollection>
