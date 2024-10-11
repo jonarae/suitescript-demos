@@ -1,4 +1,7 @@
 <deploy>
+    <files>
+        <path>~/FileCabinet/SuiteScripts/managing-translations/*</path>
+    </files>
     <objects>
         <path>~/Objects/*</path>
     </objects>

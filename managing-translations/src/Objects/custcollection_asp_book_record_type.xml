@@ -14,5 +14,13 @@
       <defaulttranslation>Language</defaulttranslation>
       <description>Language field label</description>
     </string>
+    <string scriptid="banner_title">
+      <defaulttranslation>Effortless Translations</defaulttranslation>
+      <description>Banner title</description>
+    </string>
+    <string scriptid="banner_message">
+      <defaulttranslation>Manage multilingual content in NetSuite with ease and accuracy.</defaulttranslation>
+      <description>Banner message</description>
+    </string>
   </strings>
 </translationcollection>

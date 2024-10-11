@@ -18,6 +18,16 @@
                     <target>NetSuite翻訳について学ぶ</target>
                     <note from="string description">Language field help text</note>
                 </trans-unit>
+                <trans-unit id="BANNER_TITLE">
+                    <source>Effortless Translations</source>
+                    <target>簡単な翻訳管理</target>
+                    <note from="string description">Banner title</note>
+                </trans-unit>
+                <trans-unit id="BANNER_MESSAGE">
+                    <source>Manage multilingual content in NetSuite with ease and accuracy.</source>
+                    <target>NetSuiteで多言語コンテンツを簡単かつ正確に管理しましょう。</target>
+                    <note from="string description">Banner message</note>
+                </trans-unit>
             </group>
         </body>
     </file>
