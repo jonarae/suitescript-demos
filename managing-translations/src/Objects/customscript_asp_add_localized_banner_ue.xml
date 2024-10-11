@@ -1,0 +1,10 @@
+<usereventscript scriptid="customscript_asp_add_localized_banner_ue">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>ASP Add Localized Banner UE</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/managing-translations/addLocalizedBannerUE.js]</scriptfile>
+</usereventscript>
