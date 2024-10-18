@@ -1,0 +1,16 @@
+<customlist scriptid="customlist_asp_chrome_extension_rating">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>Chrome Extension Rating</name>
+  <customvalues>
+    <customvalue scriptid="val_27526892_4917246_sb1_392">
+      <isinactive>F</isinactive>
+      <value>Good</value>
+    </customvalue>
+    <customvalue scriptid="val_27526893_4917246_sb1_574">
+      <isinactive>F</isinactive>
+      <value>Very Good</value>
+    </customvalue>
+  </customvalues>
+</customlist>
